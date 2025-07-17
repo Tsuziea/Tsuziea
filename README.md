@@ -1,2 +1,2 @@
 # Howdy!
-I puzzle to learn, and employ what I learnt on the go.
+I puzzle to learn, and employ what I learned on the go.
